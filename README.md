@@ -1,3 +1,3 @@
 # PruebaNueva
--Maquetación en HTML y CSS con un menu desplegable.
+-Maquetación de pagina web en HTML y CSS.
 -Utilizados solo para pruebas y contenido.
